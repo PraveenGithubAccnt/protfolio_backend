@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "name": "Praveen Kumar Kushwaha",
+    "description": "MCA Graduate (2025) in Computer Applications. Proficient in React Native, Node.js, Express.js, Firebase, and RESTful API integration. Skilled in C++, Python, and JavaScript. Specializes in full-stack mobile development and AI-powered applications. Passionate about building scalable apps and contributing to innovative tech environments."
+  },
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Roorkee Institute of Technology",
+      "graduation_date": "July 2025"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Rajiv Gandhi University",
+      "graduation_date": "June 2023"
+    },
+    {
+      "degree": "Higher Secondary Education in Science",
+      "institution": "Kendriya Vidyalaya Tezu",
+      "graduation_date": "May 2019"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks_libraries": [
+      "React.js",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "RESTful APIs"
+    ],
+    "ai_ml": [
+      "NLP",
+      "Generative AI",
+      "Hugging Face",
+      "Pandas (beginner)",
+      "NumPy (beginner)"
+    ],
+    "tools_platforms": [
+      "Git",
+      "Android Studio",
+      "VS Code",
+      "Firebase"
+    ],
+    "core_concepts": [
+      "Object-Oriented Programming",
+      "Database Management"
+    ],
+    "soft_skills": [
+      "Teamwork",
+      "Problem-Solving",
+      "Time Management",
+      "Adaptability"
+    ]
+  },
+  "projects": [
+    {
+      "title": "AI Study Companion (Full-Stack Mobile App)",
+      "technologies": "React Native, Node.js, Express.js, RESTful APIs, Firebase",
+      "timeline": "May 2025 - Aug 2025",
+      "description": "Integrated Gemini API to provide topic explanations and doubt-solving. Used YouTube and Google Custom Search APIs to fetch videos and PDFs. Implemented a Lang Search API filter to rank results. Used a Node.js backend to secure external API calls."
+    },
+    {
+      "title": "Website Guide Voice Assistant",
+      "technologies": "Python, NLP, Google Web Speech API",
+      "timeline": "Feb 2023 - May 2023",
+      "description": "Built an AI-driven multilingual voice assistant (English/Hindi) using Google Web Speech API for speech recognition. Automated website navigation and FAQ responses, leveraging NLP for speech-to-text and text-to-speech."
+    },
+    {
+      "title": "FitMate Your Personal Fitness & Diet Companion",
+      "technologies": "React Native (Expo), ExerciseDB API",
+      "description": "A React Native Expo app powered by the ExerciseDB API that helps users stay fit with personalized exercise variations and a customized diet plan. It features personalized exercise recommendations, tailored diet plans, and progress tracking.",
+      "link": "https://github.com/PraveenGithubAccnt/fitmate"
+    }
+  ],
+  "certifications_honors": [
+    "Solved over 200 coding problems on platforms like LeetCode and HackerRank.",
+    "Earned Gold Badge in C++ on HackerRank.",
+    "Certified in Full Stack Web Development by NASSCOM.",
+    "Secured 3rd Rank in Bachelor's degree program.",
+    "Represented institute at a Regional-level Youth Parliament."
+  ],
+  "contact": {
+    "email": "praveen20005kumar@gmail.com",
+    "phone": "+91 9366539798",
+    "linkedin": "https://www.linkedin.com/in/pravkrk",
+    "github": "https://github.com/PraveenGithubAccnt",
+    "portfolio": "pravportfolio.me",
+    "address": "Delhi, India"
+  }
+}
